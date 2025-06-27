@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Alarm App
+Exec=alarm-app
+Icon=alarm-app
+Type=Application
+Categories=Utility;
